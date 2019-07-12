@@ -1,0 +1,15 @@
+{
+  "name": "lstm",
+  "version": "1.0.0",
+  "description": "Basic lstm network",
+  "main": "lstm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["lstm", "neural", "ai"],
+  "author": "Ascari Gutierrez Hermosillo",
+  "license": "MIT",
+  "dependencies": {
+    "numjs": "^0.16.0"
+  }
+}
